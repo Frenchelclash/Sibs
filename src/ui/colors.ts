@@ -7,5 +7,5 @@ export enum Colors {
     white = '#E5E5E5',
   }
   
-  export type Color = keyof typeof Colors;
+export type Color = keyof typeof Colors;
   
